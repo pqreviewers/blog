@@ -103,3 +103,7 @@ $$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
 will be displayed as
 
 \\[ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} \\]
+
+###Image Plotly
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~PaoloLelio/2.embed"></iframe>
