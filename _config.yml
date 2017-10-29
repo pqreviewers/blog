@@ -121,8 +121,8 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -232,8 +232,11 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/pqreviewers logo.png
-avatar: pqreviewers_logo.png
+#avatar: pqreviewers_logo.png
 
+sidebar: true    # whether or not using Sidebar.
+sidebar-about-description: "ciao"
+sidebar-avatar: assets/images/pqreviewers_logo.png
 
 # Table Of Contents in the Sidebar
 toc:
