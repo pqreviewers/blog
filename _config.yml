@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/pqreviewers logo.png
-avatar: /assets/images/pqreviewers_logo.png
+avatar: pqreviewers_logo.png
 
 
 # Table Of Contents in the Sidebar
