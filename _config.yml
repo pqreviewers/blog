@@ -234,9 +234,9 @@ social_icons:
 # in directory: /assets/images/pqreviewers logo.png
 #avatar: pqreviewers_logo.png
 
-sidebar: true    # whether or not using Sidebar.
-sidebar-about-description: "ciao"
-sidebar-avatar: assets/images/pqreviewers_logo.png
+#sidebar: true    # whether or not using Sidebar.
+#sidebar-about-description: "ciao"
+#sidebar-avatar: assets/images/pqreviewers_logo.png
 
 # Table Of Contents in the Sidebar
 toc:
