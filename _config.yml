@@ -231,8 +231,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/pqreviewers logo.png
-#avatar: pqreviewers_logo.png
+# in directory: /assets/images/pqreviewers_logo.png
+avatar: /assets/images/pqreviewers_logo.png
 
 #sidebar: true    # whether or not using Sidebar.
 #sidebar-about-description: "ciao"
