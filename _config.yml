@@ -170,11 +170,11 @@ font:
   host:
 
   # Global font settings used on <body> element.
-  global:
+  global: Noto Serif
     # external: true will load this font family from host.
     external: true
     #Lato
-    family: Noto Sans
+    family: Noto Serif
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
