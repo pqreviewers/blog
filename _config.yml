@@ -180,7 +180,7 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: Noto Sans Bold
+    family: Noto Serif
 
   # Font settings for posts
   # Fallback to `global` font settings.
