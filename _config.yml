@@ -170,7 +170,7 @@ font:
   host:
 
   # Global font settings used on <body> element.
-  global: Noto Serif
+  global: 
     # external: true will load this font family from host.
     external: true
     #Lato
